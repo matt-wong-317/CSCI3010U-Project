@@ -1,1 +1,1 @@
-# CSCI3010UProject
+# CSCI3010U Course Project
